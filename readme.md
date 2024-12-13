@@ -68,5 +68,4 @@ Mudah digunakan dan dapat diaktifkan/dinonaktifkan langsung dari pengaturan Acod
 
 Plugin ini dirancang untuk memberikan pengalaman coding yang lebih lancar dan efisien di Acode, terutama bagi pengguna yang sering bekerja dalam sesi coding panjang atau membuka file besar.
 
-By TarnaWijaya 
-©2024
+By TarnaWijaya | ©2024
