@@ -1,0 +1,16 @@
+{
+  "id": "acode.plugin.optimization",
+  "name": "Acode - Optimize",
+  "main": "dist/main.js",
+  "version": "1.0.1",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "author": {
+    "name": "TarnaWijaya",
+    "email": "tarnaindramayuu@gmail.com",
+    "url": "https://github.com/TarnaWijaya/Acode-Optimize",
+    "github": "TarnaWijaya"
+  }
+}
